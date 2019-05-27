@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#FFF0F5"
+    android:orientation="vertical"
+
+    android:padding="20dp"
+    tools:context=".ScoreActivity">
+
+    <Button
+        android:id="@+id/btnBack"
+        android:layout_width="140dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:background="#DEB887"
+        android:onClick="onBack"
+        android:text="Play Again"
+        android:textColor="#A52A2A" />
+
+
+    <ListView
+        android:id="@+id/listViewScore"
+        android:layout_width="1000px"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_marginTop="8dp"
+        android:alwaysDrawnWithCache="true"
+        android:background="#DEB887"
+        android:dividerHeight="1dp"
+        android:horizontalSpacing="3dp"
+        android:scrollingCache="true"
+        android:smoothScrollbar="true"
+        android:stretchMode="columnWidth"
+        android:textColor="#A52A2A"
+        android:verticalSpacing="3dp" />
+
+
+</LinearLayout>

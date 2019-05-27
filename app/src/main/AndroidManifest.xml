@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.shi.abacusmentalmaths">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+
+        android:roundIcon="@drawable/ic_launcher"
+
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".GameActivity"
+            android:label="GameActivity" />
+        <activity
+            android:name=".ScoreActivity"
+            android:label="ScoreActivity" />
+        <activity android:name=".HelpActivity"  android:label="HelpActivity"></activity>
+    </application>
+
+</manifest>

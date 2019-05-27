@@ -1,0 +1,7 @@
+Rule=Player has to enter his name and phone number first.
+when player starts to play ,he can see a list of positive and negative numbers.
+Then he has to add them up and write in the box andclick on next button.
+The different list generate every timeHe has to keep playing as timer is also there.
+When he finishes playing ,he can see final score with the date of playing.
+Player can view his score in the end of the game with date.
+BackButton has to make in all activities
