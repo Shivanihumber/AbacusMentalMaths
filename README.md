@@ -18,3 +18,5 @@ AbacusMentalMaths
 ![part6](https://user-images.githubusercontent.com/35033507/73557625-8c7e8c00-441f-11ea-92b5-4b9a7838df60.png)
 
 ![part7](https://user-images.githubusercontent.com/35033507/73557743-bdf75780-441f-11ea-8751-bcff6e9af85f.png)
+![part8](https://user-images.githubusercontent.com/35033507/73557830-ef702300-441f-11ea-8a4f-2e48708cf030.png)
+
