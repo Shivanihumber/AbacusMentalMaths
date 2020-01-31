@@ -10,3 +10,7 @@ AbacusMentalMaths
 
 
 ![part4](https://user-images.githubusercontent.com/35033507/73557411-24c84100-441f-11ea-9204-f270f4d3f048.png)
+
+
+
+![part5](https://user-images.githubusercontent.com/35033507/73557528-593bfd00-441f-11ea-82e2-867232ffe3ab.png)
